@@ -10,6 +10,7 @@ import InterviewPage from './pages/InterviewPage'
 import InterviewHistory from './pages/InterviewHistory'
 import Pricing from './pages/Pricing'
 import InterviewReport from './pages/InterviewReport'
+import ProtectedRoute from "./ProtectedRoute";
 
 export const ServerUrl  = "https://interviewai-0sxf.onrender.com"
 
