@@ -113,31 +113,6 @@ InterviewAI/
 │
 └── README.md
 ```
-
----
-
-## 🖼️ Screenshots
-
-### 🏠 Landing Page
-
-*Add your screenshot here*
-
-### 🎯 Interview Setup
-
-*Add your screenshot here*
-
-### 🎙️ AI Interview Session
-
-*Add your screenshot here*
-
-### 📊 Performance Report
-
-*Add your screenshot here*
-
-### 📜 Interview History
-
-*Add your screenshot here*
-
 ---
 
 ## 🚀 Future Enhancements
