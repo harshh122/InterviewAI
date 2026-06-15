@@ -13,7 +13,7 @@
 
 ## 🔗 Live Demo
 
-🚀 **[View InterviewAI on Render](https://interviewai-0sxf.onrender.com)**
+🚀 **[View InterviewAI on Render](https://interviewai-client-y8u7.onrender.com/)**
 
 ---
 
